@@ -2,18 +2,33 @@ body{
     margin: 0;
     padding: 0;
     text-align: center;
-
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
 }
 h1{
     color: red;
 }
-p{
-    font-size: 20px;
-}
+
 .container{
     width: 70%;
     padding: 1em;
     text-align: left;
     border: 1px solid #DDD;
     margin: 0 auto;
+}
+
+#cabecera{
+    background: rgb(59, 60, 121);
+    color: white;
+    font-size: 3em;
+    font-weight: bold;
+    box-shadow: rgba(0, 0, 0, 0.75) 9px 10px 49px -11px;;
+    height: auto;
+    margin: 0;
+    padding: 0.5em;
+}
+#cabecera #tagline{
+    padding: 0 0 0 .5em;
+    font-weight: initial;
+    font-size: 0.8em;
 }
