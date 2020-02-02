@@ -28,6 +28,10 @@ h1{
     margin: 0;
     padding: 0.5em;
 }
+#cabecera #logo{
+    width: 50px;
+    vertical-align: middle;
+}
 #cabecera #tagline{
     padding: 0 0 0 .5em;
     font-weight: initial;
