@@ -33,3 +33,14 @@ h1{
     font-weight: initial;
     font-size: 0.8em;
 }
+.footer{
+    width:  70%;
+    margin: 0 auto;
+}
+.footerInfo {
+    background: gray;
+    color:white;
+    margin:0 auto;
+    font-size:  40px;
+    padding:  .5em;  
+}
